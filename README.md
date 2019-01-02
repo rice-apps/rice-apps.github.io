@@ -5,7 +5,7 @@ You can find all documentation details about Rice-Apps and our respective projec
 
 ## Guidelines
 1. Only edit pages related to your team
-2. Try to keep everything in one single markdown page
+2. Try to keep everything in one single markdown page ==> README.md
 3. Create your own branch for your team. If branch already exists, please pull before making changes. 
 
 
