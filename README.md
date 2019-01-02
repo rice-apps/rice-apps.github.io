@@ -1,5 +1,13 @@
-# RiceApps Documentation Guidelines
- 
+# RiceApps Documentation 
+Welcome! 
+
+You can find all documentation details about Rice-Apps and our respective projects here. 
+
+## Guidelines
+1. Only edit pages related to your team
+2. Try to keep everything in one single markdown page
+
+
 
 ## Setup
 1. Download Docsify CLI
@@ -19,27 +27,5 @@ docsify serve docs
 
 ---
 
-## Documentation Structure
 
-If you need more pages, you can simply create more markdown files in your docsify directory. If you create a file named `guide.md`, then it is accessible via `/#/guide`.
 
-For example, the directory structure is as follows:
-
-```text
-.
-└── docs
-    ├── README.md
-    ├── guide.md
-    └── zh-cn
-        ├── README.md
-        └── guide.md
-```
-
-Matching routes
-
-```text
-docs/README.md        => http://domain.com
-docs/guide.md         => http://domain.com/guide
-docs/zh-cn/README.md  => http://domain.com/zh-cn/
-docs/zh-cn/guide.md   => http://domain.com/zh-cn/guide
-```
