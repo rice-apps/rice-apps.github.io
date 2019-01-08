@@ -14,9 +14,8 @@
 | Sprint 5 | 3/2 |
 | Mid-Semester Review | 3/3 | 
 | Sprint 6 | 3/23 |
-| Sprint 7 | 3/30 |
-| Sprint 8 | 4/6 |
-| Sprint 9 / Project Deadline | 4/13 |
+| Sprint 7 | 4/6 |
+| Sprint 8 / Project Deadline | 4/13 |
 | Final Review | ? | 
 
 
@@ -24,8 +23,7 @@
 | Projects | Launch Date | 
 | - | -
 | Carpool | March 4th (Monday, 5 dev weeks)
-| Hedwig | March 27th (Wednesday, 6 dev weeks) 
-| | April 3rd (Wednesday, 7 dev weeks)
+| Hedwig | April 3rd (Wednesday, 6 dev weeks)
 | BeakSpeak | ?? |
 | Baker Ripley | April 13 (Saturday, 9 dev weeks) |
 | Reservations | April 13th (Wednesday, 9 dev weeks) 
