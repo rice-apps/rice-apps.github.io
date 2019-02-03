@@ -25,11 +25,21 @@ Stories Done:
 ### **_Sprint #4 (2/16)_**
 
 #### **Story**
-Yes
+Vendor can adjust inventory totals from within app
+##### Acceptance Criteria
+-Vendor can increment inventory of an item\
+-Vendor can decrement inventory of an item\
+-Vendor can custom-type inventory of an item\
+-Adjusted totals reflected on Stripe Dashboard
+
 #### **Story**
+##### Acceptance Criteria
 #### **Story**
+##### Acceptance Criteria
 #### **Story**
+##### Acceptance Criteria
 #### **Story**
+##### Acceptance Criteria
 
 ### **_Sprint #5 (2/23)_**
 ### **_Sprint #6 (3/23)_**
