@@ -13,7 +13,7 @@
 **Work-in-Progress:**
 1. Email Notifications add the option to send emails when a rider joins (Angela and Josie)
    - Sending emails to all riders who are a part of the ride; two separate emails: one for all and one specific to the joiner
-     - Create notification for when someone creates the ride, they remind them to contact uber
+     - Create notification for when someone creates the ride, User is reminded to contact uber
      - Edit the profile page to include ride information
 2. Update landing page (Emmett)
    - Made new branch with new front end revisions; changes on landing page - new color schema and step buttons (needs content) New buttons added to the nav bar (find a ride, etc), changed the search buttons to look cleaner
@@ -68,15 +68,22 @@
 **Delivery Target:**
 1. Final web design aesthetic completed for compelling interface
 Finalize buttons
-2. Soft launch of site
+2. Get Nicole on board for promoting the new app; removing the existing google sheet and also adding (Diksha, Myra & Katherine
+3. Soft launch of site for user testing
+4. Connect to GCP
+   - debug to connect
 
 **Work in Progress:**
 1. The user will have an aesthetically compelling interface so they are more likely to use the service
    - Creating and updating buttons
    - Standardizing app color theme throughout pages
-   - Create a logo so there is brand recognition
+     - Add the logo to the tab bar and add the logo to the top lefthand side of the header
 2. Gain user insights
+   - pull Rice Apps students from other teams to demo the app and interview; provide
 3. Marketing and planning for App Launch
+   - Get buy-in from carpool facebook page admin
+   - Find manufacturer for creating the stickers with the app logo
+   - Record 'how-to' tutorial on using the website application
    
 **Backlog:**
 
@@ -84,6 +91,7 @@ Finalize buttons
 
 **Delivery Target:**
 1. Complete program gaps
+2. Complete 'how-to' tutorial and upload to youtube and website
 
 **Work-in-Progress:**
 1. Review app usage and outcomes from soft launch
@@ -116,5 +124,3 @@ Finalize buttons
 
 **Backlog:**
 1. N/A
-
-hi
