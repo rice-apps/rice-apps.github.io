@@ -49,3 +49,45 @@ While we will not be memorizing these principles, you may want to be familiar wi
 Please use this Atlassian page to learn more about Agile:
 <https://www.atlassian.com/agile/scrum>
 
+#### How Rice Apps Does Agile
+Rice Apps follows a more modified version of Agile to accommodate for the schedules and demands of their students.
+
+As you now know, the Agile process has a few steps - daily standups, sprint retrospectives, sprint planning, etc. The Rice Apps team condenses these into one weekday afternoon/evening, where they’ll meet and perform these activites.
+There is no story-pointing. Story-pointing, or the process to understand the level of effort with each story, is not utilized.
+All coding happens on Saturdays. This means that the bulk of progress will happen during the three hours each weekend. There are no agile ceremonies that happen, but Saturday will be a great time for you to learn more about the dynamics of the team you’re working with.
+
+#### Documentation
+Rice Apps currently has documentation duties assigned to team leads, who unfortunately have not had the time to prepare proper documentation. Part of our problem will be understanding the best practices for how we track the user journey, the technical solutions that have been built, etc.
+
+We will be learning to document on Github, through Docsify.
+Please create a Github account and Docsify profile:
+<https://github.com/>
+<https://docsify.js.org/#/>
+
+Use this Github guide to understand the principles of repositories, branching, commits, and pull requests: <https://guides.github.com/activities/hello-world/>
+
+This page has some additional information about the workflow in Github: <https://guides.github.com/introduction/flow/>
+
+#### Markdown Language
+Markdown is the language that we’ll be using in Github. Here’s a cheatsheet of sorts: <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
+<https://help.github.com/articles/about-writing-and-formatting-on-github/>
+
+While I haven’t had to use Markdown in my career, adding more skills can only help!
+
+#### MVP - Minimum Viable Product
+The MVP is an oft-used term in tech, describing the vision and minimum featureset to a certain set audience. You have a clear vision of the problem you’re solving, but it will be a long time before you’re able to achieve your ideal state. What are the minimum features possible that will make your product work? Anything fancy can be built in later because it’s most important to gather immediate user feedback to understand what features you will need to build and how you will prioritize those features
+
+Goal of MVP: the MVP’s purpose is to collect user feedback immediately. The user feedback and insights you gather from talking to your first users will guide the direction of your product. You will be able to **iterate on features and develop your product roadmap** based on your MVP. For this to succeed, you must be able to gather feedback effectively and properly use that feedback to guide the product.
+
+#### Access to LiuLab
+Access to LiuLab
+Please read the community guidelines and take the following quiz so that you can access the LiuLab: <http://bit.ly/LilieAccessQuiz>
+
+### Phase 1: Documentation
+We will cover five types of documentation, which will be continually updated throughout the course of the semester. Documentation is often the job of the PM, who ensures that the organization will keep records and logs of the different moving parts of the project.
+
+#### Why Documentation?
+Educational Benefits:
+1) You will gain an instinct for features that should be documented and those that will not be documented. Filter out the unnecessary.
+2) You will learn more about the app that you will be managing. After learning the ins and outs of the app, you will be able to more effectively communicate with your customers and with your internal stakeholders.
+3) You will learn about Git and a few core principles of the software development workflow
