@@ -91,3 +91,22 @@ Educational Benefits:
 1) You will gain an instinct for features that should be documented and those that will not be documented. Filter out the unnecessary.
 2) You will learn more about the app that you will be managing. After learning the ins and outs of the app, you will be able to more effectively communicate with your customers and with your internal stakeholders.
 3) You will learn about Git and a few core principles of the software development workflow
+
+#### Documentation Principles
+You will play a key role in determining what documentation will look like for the app that you’re managing. Regardless, there are five broad areas of documentation that you will participate in:
+**User journey:** what are the steps of the customer journey? What is the “happy path”, and what is a “un-happy path”?
+**Technical journey:** when the user is taking their journey, what is happening behind the scenes?
+**Protocols:** what policies do you want to implement for your app?
+**Feedback collection:** what user feedback are you collecting? How is that changing over time?
+**Roadmap:** what does the next iteration of your app look like?
+
+#### Defining Problems and Experiments:
+A vital part in product management is being able to identify customer pain points. What is the customer’s problem? Don’t think about the solutions, and just focus on the issues that your customers or users are having.
+
+There are different methods to identify customer problems, with varying amounts of interaction. 
+**1) Talking to customers directly:** customer interviews help you talk directly to your user and find a problem space associated with the issues that they’re facing.
+**2) Observing customers:** see how customers are interacting in their natural environment. Notice when they have issues. Talk to them afterwards if you can interface and find more information.
+**3) Disseminating through data:** this will not be one we readily have, but in your context, you can do some research on demographics to identify user demographics and populations. 
+- use this sheet to identify the weaknesses of your solution or product and what you can do to mitigate the issue
+- we will not worry about unfair advantages, costs, or revenue streams
+- This is also known as “Lean Canvas”, a way for folks to understand their product better
