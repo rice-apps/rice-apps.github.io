@@ -2,8 +2,6 @@
 
 The goal of this document is to help current and future Rice Apps PM's onboard efficiently and contribute as soon as possible to the organization. Some of the documentation touches on general product management guidelines, while other parts are written to be Rice Apps specific. 
 
-Rice Apps PM Timeline
-
 ## Table of contents
 **Rice Apps PM Timeline:**  
 1/13: PM Onboarding with Jeffrey and Jason  
