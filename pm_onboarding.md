@@ -161,18 +161,18 @@ You should be thinking about what hypothesis you have developed throughout this 
 Be sure you validate and confirm your hypothesis. It’s vital to have a good understanding about your customer and their issues.
 
 If you’ve given some thought to who your customers are, then let’s think about how you’re testing. For testing purposes, consider things such as:
-1) How are you choosing your customers?
-a) Who are your customers for testing?
-b) How many customers do you want to test on?
-c) Where will you test?
-2) What is your test plan?
-a) What do you want to learn from the test?
-b) What will you do with the things you learn?
-c) What defines success for your test?
-3) What if your test fails?
-a) Will you pivot?
-b) Will you redefine the problem space?
-c) Will you redefine the customer?
+1) How are you choosing your customers?  
+a) Who are your customers for testing?  
+b) How many customers do you want to test on?  
+c) Where will you test?  
+2) What is your test plan?  
+a) What do you want to learn from the test?  
+b) What will you do with the things you learn?  
+c) What defines success for your test?  
+3) What if your test fails?  
+a) Will you pivot?  
+b) Will you redefine the problem space?  
+c) Will you redefine the customer?  
 
 ### Phase 5: Launch
 Congrats, you’re ready to launch your app. You understand the customer, you understand the competitive landscape, but you need to know how to get customers to adopt the app. In other words, you need to find ways to successfully market your app.
