@@ -3,6 +3,7 @@
 
 ## Carpool Roadmap
 
+### GANTT Chart
 <img src="Carpool_GANTT_chart.PNG">
 
 ### **_Sprint #1 (1/26)_**
@@ -12,12 +13,14 @@
 
 **Work-in-Progress:**
 1. Email Notifications add the option to send emails when a rider joins (Angela and Josie)
-   - Sending emails to all riders who are a part of the ride; two separate emails: one for all and one specific to the joiner
-     - Create notification for when someone creates the ride, User is reminded to contact uber
-     - Edit the profile page to include ride information
+   - [Story]Sending emails to all riders who are a part of the ride; two separate emails: one for all and one specific to the joiner
+     - Acceptance Criteria:
+       - Create notification for when someone creates the ride, User is reminded to contact uber
+       - Edit the profile page to include ride information
 2. Update landing page (Emmett)
-   - Made new branch with new front end revisions; changes on landing page - new color schema and step buttons (needs content) New buttons added to the nav bar (find a ride, etc), changed the search buttons to look cleaner
-      - Next step is to find a cohesive color scheme that can be consistent across all pages; add logo to the landing page and at the top; change padding issue to get rid of dead weight
+   - [Story] Made new branch with new front end revisions; changes on landing page - new color schema and step buttons (needs content) New buttons added to the nav bar (find a ride, etc), changed the search buttons to look cleaner
+      - Acceptance Criteria:
+        - Next step is to find a cohesive color scheme that can be consistent across all pages; add logo to the landing page and at the top; change padding issue to get rid of dead weight
 3. Edit profile icons for telephone numbers (Ling)
    - Icons 
    - Fix edit page
@@ -32,7 +35,7 @@
 **Delivery Target:**
 1. Icon updates Change random images that had been assigned previously to profile pictures or pic from rice system so that Users can personalize (Ling)
 2. Develop opt-in option so that users can receive updates on their ride
-   - Include an unsubscribe option in email notifications
+   - [Story] Include an unsubscribe option in email notifications
 3. Email Notifications add the option to send emails when a rider joins (Angela and Josie)
    - Sending emails to all riders who are a part of the ride; two separate emails: one for all and one specific to the joiner
      - Create notification for when someone creates the ride, they remind them to contact uber
@@ -91,12 +94,15 @@ Finalize buttons
 
 **Delivery Target:**
 1. Complete program gaps
-2. Complete 'how-to' tutorial and upload to youtube and website
+2. App Launch
+   - Complete 'how-to' tutorial and upload to youtube and website
+   - Reserve RMC space for launch
 
 **Work-in-Progress:**
 1. Review app usage and outcomes from soft launch
    - Look for any new gaps we had not anticipated
 2. Finalize plans for Launch
+   - Reserve RMC space
 
 **Backlog:**
 
