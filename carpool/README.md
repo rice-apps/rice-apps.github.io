@@ -48,14 +48,17 @@
 
 **Work-in-Progress:**
 1. Email Notifications add the option to send emails when a rider joins 
-   - Sending emails to all riders who are a part of the ride; two separate emails: one for all and one specific to the joiner
-     - Notification for when someone creates the ride, they remind them to contact uber
-     - Profile pages will include ride information
-   - All ride users will receive an email reminder 24 hours prior to the ride date so that they may prepare for the ride
-     - The email will include data of the ride
-     - Include link to cancel participation in the ride
-   - Ride users will receive an email if the ride is canceled so that riders can reorganize or setup a new ride
-     - Email will include link to page to setup a ride(List stories that will be in progress here)
+   - [Story] Sending emails to all riders who are a part of the ride; two separate emails: one for all and one specific to the joiner
+     - Acceptance Criteria:
+       - Notification for when someone creates the ride, they remind them to contact uber
+       - Profile pages will include ride information
+   - [Story] All ride users will receive an email reminder 24 hours prior to the ride date so that they may prepare for the ride
+     - Acceptance Criteria:
+       - The email will include data of the ride
+       - Include link to cancel participation in the ride
+   - [Story] Ride users will receive an email if the ride is canceled so that riders can reorganize or setup a new ride
+     - Acceptance Criteria:
+       - Email will include link to page to setup a ride(List stories that will be in progress here)
 2. Front End web design
    - Decide on color theme and apply to pages for consistency
 3. Documentation of project progress
@@ -79,12 +82,16 @@ Finalize buttons
 **Work in Progress:**
 1. The user will have an aesthetically compelling interface so they are more likely to use the service
    - Creating and updating buttons
-   - Standardizing app color theme throughout pages
-     - Add the logo to the tab bar and add the logo to the top lefthand side of the header
-2. Gain user insights
-   - pull Rice Apps students from other teams to demo the app and interview; provide
+   - [Story] Standardizing app color theme throughout pages
+     - Acceptance Criteria:
+       - The logo to the tab bar and add the logo to the top lefthand side of the header
+2. Optimize the app for launch
+   - [Story] Gain user insights
+     - Pull Rice Apps students from other teams to demo the app and interview;
 3. Marketing and planning for App Launch
    - Get buy-in from carpool facebook page admin
+     - Acceptance Criteria:
+       - Written documentation confirming go-ahead from facebook page admin 
    - Find manufacturer for creating the stickers with the app logo
    - Record 'how-to' tutorial on using the website application
    
