@@ -136,7 +136,7 @@ Customer journey mapping involves taking on a customer persona and understanding
 With a Project Poster, you’ll be ready to help guide your team through understanding the solution that’s being built for the problem that you’ve identified. It’ll help you work with your team to identify the solutions that matter.
 <https://www.atlassian.com/team-playbook/plays/project-poster>
 
-## Phase 3:
+## Phase 3: Roadmap Creation and Prioritization
 **Minimal Viable Product:** the product begins with the minimal viable product, as you learned earlier. The MVP is where your product will start.
 
 Through customer interviews, you’ll figure out the prioritization of features that will be on your roadmap. Having a constantly updated roadmap will communicate what needs to be worked on next to increase customer satisfaction.
