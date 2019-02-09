@@ -36,7 +36,7 @@ What is the most recent roadmap? Remember, the roadmap is a living document that
 ### Roadmap (original):
 What was the original roadmap? Having the two roadmaps side-by-side should be useful for understanding the delays. After the project, you can discuss what happened to the time lag.
 
-## Appendix:
+## Appendix
 ### Research Findings & Learnings:
 1) Issue encountered  
 2) Research performed (if any): what was done to solve the problem?  
