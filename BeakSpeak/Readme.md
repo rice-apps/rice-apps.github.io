@@ -54,7 +54,7 @@ i.	when a post is reported, remove it from valid collection and move to reported
 
 Time Line 
 
- 
+ <img src = "Timeline.png"/>
 
 
 
