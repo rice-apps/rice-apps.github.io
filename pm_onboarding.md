@@ -110,3 +110,75 @@ There are different methods to identify customer problems, with varying amounts 
 - use this sheet to identify the weaknesses of your solution or product and what you can do to mitigate the issue
 - we will not worry about unfair advantages, costs, or revenue streams
 - This is also known as “Lean Canvas”, a way for folks to understand their product better
+
+<img src="leanCanvas.jpg">
+Building on Lean Canvas: Atlassian has built an “Experience Canvas” which builds on Lean Canvas. It reminds us the problem that we’re trying to solve and what success looks like: <https://www.atlassian.com/team-playbook/plays/experience-canvas>
+
+**Check out the sample roadmap here:** <https://docs.google.com/document/d/1KmMgcLbViua6NKQ7RobuyOWBR3j4GYJw1t_4BPCVFBw/edit?usp=sharing>
+
+This is just an idea that we have in mind right now, and we will continue improving on this roadmap throughout the semester.
+
+### Phase 2: Customer Interviews
+Customer interviews are great ways to discover insights about your potential or current users. You may have a variety of goals when you’re talking to them, and it’s important that you keep those in mind. Are you trying to identify a customer pain point? Are you trying to understand the viability of your solution?
+
+I like this page from Atlassian about customer interviews: <https://www.atlassian.com/team-playbook/plays/customer-interview>
+
+How you can ask follow- questions to drive further insights (5 Why’s):
+<https://www.atlassian.com/team-playbook/plays/5-whys>
+
+Communicating your interview insights with the team:
+<https://www.atlassian.com/agile/design/product-design-process-customer-interview>
+
+Deriving further value from your interviews:
+<https://www.atlassian.com/team-playbook/plays/empathy-mapping>
+
+Running exercises with your team:
+Customer journey mapping involves taking on a customer persona and understanding how they would navigate through your product. The goal is to identify opportunities to continue improving the product and build your backlog from there.
+<https://www.atlassian.com/team-playbook/plays/customer-journey-mapping>
+
+With a Project Poster, you’ll be ready to help guide your team through understanding the solution that’s being built for the problem that you’ve identified. It’ll help you work with your team to identify the solutions that matter.
+<https://www.atlassian.com/team-playbook/plays/project-poster>
+
+### Phase 3:
+**Minimal Viable Product:** the product begins with the minimal viable product, as you learned earlier. The MVP is where your product will start.
+
+Through customer interviews, you’ll figure out the prioritization of features that will be on your roadmap. Having a constantly updated roadmap will communicate what needs to be worked on next to increase customer satisfaction.
+
+Trade-offs don’t just occur with roadmap prioritization. This trade-off slider helps you realize the sacrifices that product managers must make in determining each feature. Each feature may sacrifice some aspect of usability for technical simplicity. Others may prioritize certain metrics above others. Defining and understanding your key metrics is important for your roadmap.
+<https://www.atlassian.com/team-playbook/plays/trade-off-sliders>
+
+### Phase 4: Hypothesis Development and Testing
+By this time, you should:
+1) understand the problem
+2) understand who your customers are
+3) understand high-level, what they care about, and what needs to be delivered in an MVP
+
+You should be thinking about what hypothesis you have developed throughout this process. 
+1) What are the customers’ unmeet needs?
+2) Who is your customer? Who are you targeting?
+3) What will be your MVP?
+
+Be sure you validate and confirm your hypothesis. It’s vital to have a good understanding about your customer and their issues.
+
+If you’ve given some thought to who your customers are, then let’s think about how you’re testing. For testing purposes, consider things such as:
+1) How are you choosing your customers?
+a) Who are your customers for testing?
+b) How many customers do you want to test on?
+c) Where will you test?
+2) What is your test plan?
+a) What do you want to learn from the test?
+b) What will you do with the things you learn?
+c) What defines success for your test?
+3) What if your test fails?
+a) Will you pivot?
+b) Will you redefine the problem space?
+c) Will you redefine the customer?
+
+### Phase 5: Launch
+Congrats, you’re ready to launch your app. You understand the customer, you understand the competitive landscape, but you need to know how to get customers to adopt the app. In other words, you need to find ways to successfully market your app.
+
+1) What are the avenues in which you’ll launch your app?
+2) What do customers think about your app?
+3) Will you grow the number of customers? Improve the experience to current customers?
+
+Furthermore, now that you’ve launched, it’s important to get feedback on your app. How will you find your users and understand what needs to be done in version 2?
