@@ -2,7 +2,6 @@
 
 The goal of this document is to help current and future Rice Apps PM's onboard efficiently and contribute as soon as possible to the organization. Some of the documentation touches on general product management guidelines, while other parts are written to be Rice Apps specific. 
 
-## Table of contents
 **Rice Apps PM Timeline:**  
 1/13: PM Onboarding with Jeffrey and Jason  
 Phase 1: Documentation  
@@ -11,23 +10,23 @@ Phase 3: Roadmap creation and prioritization
 Phase 4: Hypothesis development and testing  
 Phase 5: Launch/iteration  
 
-### Introduction to Rice Apps
-#### Background:
+## Introduction to Rice Apps
+### Background:
 Rice Apps is a student-run computer science organization that desires to create value to the Rice local community and its student members through 1) the delivery of value-adding apps, and 2) teaching its members how to code (the Computer Science program is highly theoretical in its course structure, so this is their first exposure to coding).
 
-#### Proposed Organization:
+### Proposed Organization:
 <img src="riceAppsOrg.jpg">
 
-#### Rice Apps Work Process:
+### Rice Apps Work Process:
 Rice Apps meets twice a week. Each team determines the day of the week and time that they will meet to conduct their scrum session. Then on Saturdays, they will meet from 1-4pm to code.  
 Product managers should work with their teams to determine what times are best for scrums.
 
-#### Jones Tech Club Work Process:
+### Jones Tech Club Work Process:
 Tech Club PM’s will be expected to join the team during their scrum sessions. It is recommended but not mandatory to join the teams on Saturdays from 1-4pm. During other times, it is important for Tech PM’s to understand their customer and develop their skills or roadmap.
 
 Our structure will continue to change and adjust throughout the semester as we determine best practices and trial ideas. We also hold one weekly PM stand-up with the intention of sharing updates and challenges.
 
-#### Role of Jones Tech Club
+### Role of Jones Tech Club
 During the course of their work in the Fall Semester 2018, Rice Apps has identified a need for those who can be more dedicated in talking to customers and advising their product owners on the direction of the product.
 
 The role of the Jones Tech Club product managers will be to serve as the voice of the customer, ensuring that the product decisions will be to the benefit of the end-user. They will need to play both an advisory and collaborative role with the product owner. They will need to both help the product owner with any issues that may arise and work with the product owner on determining the future of the product.
@@ -38,7 +37,7 @@ For any issues, please reach out to the Rice Apps president or Jones Tech Club p
 
 ### Pre-Semester Preparation
 
-#### Principles of Agile
+### Principles of Agile
 Agile is a development methodology demonstrating a commitment to iterative workflows. It was originally derived from a meeting of software minds, who came together and set the following principles, in what’s known as the Agile Manifesto:
 <http://agilemanifesto.org/>
 
@@ -47,14 +46,14 @@ While we will not be memorizing these principles, you may want to be familiar wi
 Please use this Atlassian page to learn more about Agile:
 <https://www.atlassian.com/agile/scrum>
 
-#### How Rice Apps Does Agile
+### How Rice Apps Does Agile
 Rice Apps follows a more modified version of Agile to accommodate for the schedules and demands of their students.
 
 As you now know, the Agile process has a few steps - daily standups, sprint retrospectives, sprint planning, etc. The Rice Apps team condenses these into one weekday afternoon/evening, where they’ll meet and perform these activites.
 There is no story-pointing. Story-pointing, or the process to understand the level of effort with each story, is not utilized.
 All coding happens on Saturdays. This means that the bulk of progress will happen during the three hours each weekend. There are no agile ceremonies that happen, but Saturday will be a great time for you to learn more about the dynamics of the team you’re working with.
 
-#### Documentation
+### Documentation
 Rice Apps currently has documentation duties assigned to team leads, who unfortunately have not had the time to prepare proper documentation. Part of our problem will be understanding the best practices for how we track the user journey, the technical solutions that have been built, etc.
 
 We will be learning to document on Github, through Docsify.
@@ -66,31 +65,31 @@ Use this Github guide to understand the principles of repositories, branching, c
 
 This page has some additional information about the workflow in Github: <https://guides.github.com/introduction/flow/>
 
-#### Markdown Language
+### Markdown Language
 Markdown is the language that we’ll be using in Github. Here’s a cheatsheet of sorts: <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
 <https://help.github.com/articles/about-writing-and-formatting-on-github/>
 
 While I haven’t had to use Markdown in my career, adding more skills can only help!
 
-#### MVP - Minimum Viable Product
+### MVP - Minimum Viable Product
 The MVP is an oft-used term in tech, describing the vision and minimum featureset to a certain set audience. You have a clear vision of the problem you’re solving, but it will be a long time before you’re able to achieve your ideal state. What are the minimum features possible that will make your product work? Anything fancy can be built in later because it’s most important to gather immediate user feedback to understand what features you will need to build and how you will prioritize those features
 
 Goal of MVP: the MVP’s purpose is to collect user feedback immediately. The user feedback and insights you gather from talking to your first users will guide the direction of your product. You will be able to **iterate on features and develop your product roadmap** based on your MVP. For this to succeed, you must be able to gather feedback effectively and properly use that feedback to guide the product.
 
-#### Access to LiuLab
+### Access to LiuLab
 Access to LiuLab
 Please read the community guidelines and take the following quiz so that you can access the LiuLab: <http://bit.ly/LilieAccessQuiz>
 
-### Phase 1: Documentation
+## Phase 1: Documentation
 We will cover five types of documentation, which will be continually updated throughout the course of the semester. Documentation is often the job of the PM, who ensures that the organization will keep records and logs of the different moving parts of the project.
 
-#### Why Documentation?
+### Why Documentation?
 Educational Benefits:
 1) You will gain an instinct for features that should be documented and those that will not be documented. Filter out the unnecessary.
 2) You will learn more about the app that you will be managing. After learning the ins and outs of the app, you will be able to more effectively communicate with your customers and with your internal stakeholders.
 3) You will learn about Git and a few core principles of the software development workflow
 
-#### Documentation Principles
+### Documentation Principles
 You will play a key role in determining what documentation will look like for the app that you’re managing. Regardless, there are five broad areas of documentation that you will participate in:
 **User journey:** what are the steps of the customer journey? What is the “happy path”, and what is a “un-happy path”?
 **Technical journey:** when the user is taking their journey, what is happening behind the scenes?
@@ -98,7 +97,7 @@ You will play a key role in determining what documentation will look like for th
 **Feedback collection:** what user feedback are you collecting? How is that changing over time?
 **Roadmap:** what does the next iteration of your app look like?
 
-#### Defining Problems and Experiments:
+### Defining Problems and Experiments:
 A vital part in product management is being able to identify customer pain points. What is the customer’s problem? Don’t think about the solutions, and just focus on the issues that your customers or users are having.
 
 There are different methods to identify customer problems, with varying amounts of interaction. 
@@ -116,7 +115,7 @@ Building on Lean Canvas: Atlassian has built an “Experience Canvas” which bu
 
 This is just an idea that we have in mind right now, and we will continue improving on this roadmap throughout the semester.
 
-### Phase 2: Customer Interviews
+## Phase 2: Customer Interviews
 Customer interviews are great ways to discover insights about your potential or current users. You may have a variety of goals when you’re talking to them, and it’s important that you keep those in mind. Are you trying to identify a customer pain point? Are you trying to understand the viability of your solution?
 
 I like this page from Atlassian about customer interviews: <https://www.atlassian.com/team-playbook/plays/customer-interview>
@@ -137,7 +136,7 @@ Customer journey mapping involves taking on a customer persona and understanding
 With a Project Poster, you’ll be ready to help guide your team through understanding the solution that’s being built for the problem that you’ve identified. It’ll help you work with your team to identify the solutions that matter.
 <https://www.atlassian.com/team-playbook/plays/project-poster>
 
-### Phase 3:
+## Phase 3:
 **Minimal Viable Product:** the product begins with the minimal viable product, as you learned earlier. The MVP is where your product will start.
 
 Through customer interviews, you’ll figure out the prioritization of features that will be on your roadmap. Having a constantly updated roadmap will communicate what needs to be worked on next to increase customer satisfaction.
@@ -145,7 +144,7 @@ Through customer interviews, you’ll figure out the prioritization of features 
 Trade-offs don’t just occur with roadmap prioritization. This trade-off slider helps you realize the sacrifices that product managers must make in determining each feature. Each feature may sacrifice some aspect of usability for technical simplicity. Others may prioritize certain metrics above others. Defining and understanding your key metrics is important for your roadmap.
 <https://www.atlassian.com/team-playbook/plays/trade-off-sliders>
 
-### Phase 4: Hypothesis Development and Testing
+## Phase 4: Hypothesis Development and Testing
 By this time, you should:
 1) understand the problem
 2) understand who your customers are
@@ -172,7 +171,7 @@ a) Will you pivot?
 b) Will you redefine the problem space?  
 c) Will you redefine the customer?  
 
-### Phase 5: Launch
+## Phase 5: Launch
 Congrats, you’re ready to launch your app. You understand the customer, you understand the competitive landscape, but you need to know how to get customers to adopt the app. In other words, you need to find ways to successfully market your app.
 
 1) What are the avenues in which you’ll launch your app?
