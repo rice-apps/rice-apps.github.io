@@ -1,5 +1,32 @@
 # Carpool 
 ## Documentation
+### Project Name: Carpool
+### Team Members: Diksha, Myra, Gerald, Josie, Angela, Ling, Emmett
+
+**Onboarding reflection:**<br/>
+What did you take away? What was it like joining the team? What do you wish was done better? How could your workflow be improved?
+ - The onboarding document was relatively easy to follow. The start to joining the team took a little longer than I would have liked. It would have been easier to have an official launch date and formal introduction and transfer of knowledge. However, once I joined the team, I quickly felt at ease.
+
+**Launch process:**<br/>
+How will you intend on getting the product to the customer? What is the goal of the launch?
+ - To get the product to the customer, we intend to have it marketed on the facebook page with the assistance of the page administrator. The goal of the launch is to inform the customer base that this is available and how to use it.
+
+**Customer journey:**<br/>
+_Front-end:_ What is the user doing on their screen?
+ - The user is selecting and creating the rides that they would like to join or create to travel to and from one of the area airports back to Rice.
+ 
+_Back-end:_ As the user is using your app, what is going on in the back-end?
+
+**Usage policies:**<br/> 
+What kind of policies does your app have? Moderation, privacy, community guidelines, etc.
+ - Currently there is no usage policy in place for the app. Security is embedded through the use of the university NetID to sign into the application. 
+ 
+**Roadmap (current):** What is the most recent roadmap?
+ - I have incorporated Epics and stories to the roadmap with target deadlines.
+ 
+**Roadmap (original):** What was the original roadmap? Having the two roadmaps side-by-side should be useful for understanding the delays. After the project, you can discuss what happened to the time lag.
+ - The original roadmap was a running To-Do list, similar to the Wunderlist app. I found it helpful to get an understanding what was done before I was onboarded.
+ 
 
 ## Carpool Roadmap
 
