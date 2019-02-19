@@ -8,6 +8,7 @@
   - [Reservations](./reservations/README.md)
   - [Hedwig](./hedwig/README.md)
   - [Carpool](./carpool/README.md)
+  - [Beakspeak](./BeakSpeak/README.md)
 
 - Product Management
   - [Product Manager Onboarding](pm_onboarding.md)
