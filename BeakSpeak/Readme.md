@@ -9,7 +9,7 @@ After each sprint: review the work that was completed in the sprint and see if a
 
 ### Roadmap for  Beakspeak
 
-##Tasks completed as of last year :
+## Tasks completed as of last year :
 1.	Basic authentication
 2.	Content creation
 a.	Posts
@@ -21,7 +21,7 @@ b.	Reacts
 a.	App response – auto updating across the app.
 
 
-##Overview of to-do’s for this semester:
+## Overview of to-do’s for this semester:
 
 1.	Warmup tasks + wrap up last year’s tasks
 2.	Moderation 
@@ -53,14 +53,14 @@ i.	when a post is reported, remove it from valid collection and move to reported
 
 
 Time Line 
-
+3
  <img src = "Timeline.png"/>
 
 
 
-##Sprints
+## Sprints
 
-#Sprint #1 (1/26)
+# Sprint #1 (1/26)
 Delivery Target:
 1.	Warm-up Tasks + Wrap Ups
 a.	Change comment votes from array to dict
