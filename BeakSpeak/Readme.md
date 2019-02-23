@@ -39,7 +39,7 @@ a.	App response – auto updating across the app.
 
 
 
-Features to be considered for future iterations:
+## Features to be considered for future iterations:
 1.	Image support - allow a more expressive media for users
 2.	Optimizations
 a.	attribute-based collections
@@ -107,7 +107,7 @@ b.	App will auto update when comments are made
 Backlog:
 (List high-level priorities here)
 
-Sprint #3  (2/9) - no Sprint due to Mid-semester break
+### Sprint #3  (2/9) - no Sprint due to Mid-semester break
 Delivery Target:
 1.	Comments to be integrated with Mobx
 
@@ -122,15 +122,14 @@ Acceptance Criteria :
 a.	Consistently get x posts every time user gets to bottom of the page
 
 iii.	Number of post retrievals per user to be fixed – number to be based on ramifications on memory
-iv.	Scroll up button to be created
-Acceptance Criteria :
-a.	All functionalities on the UI to function as it was before the change
+
 
 2.	UI for Reporting Posts 
-a.	Reporting  - Allow users a way to protect the culture of the app
+a.	Reporting  - Allow users a way to report, a single text field pops up when the report button is clicked
 Acceptance criteria :
-a.	All reports are notified to the moderator
-b.	Moderator is able to take appropriate action and user is notified accordingly
+a.	Moderator is able to extract the text from the modal
+b.	Moderator is able cancel the report if required
+
 3.	Deploy to play store 
 1.	App to be deployed to play store
 Acceptance criteria :
@@ -141,26 +140,49 @@ Backlog:
 (List high-level priorities here)
 
 
-Sprint #4 (2/16)
+
+### Sprint #4 (2/16)
 Delivery Target:
-1.	Policy planning 
+1.	Policy planning - Mathew
 i.	Moderation document – User facing document detailing the user policies
    Acceptance criteria :
-Document to be shared with Team Lead and other PMs. Team to proof read the document and validate to  all necessary scenarios are included
+Document to be shared with Team Lead and other PMs. Team to proofread the document and validate to  all necessary scenarios are included
 
-2.	Experimental setup – Identify population to collect initial user feedback on Beakspeak
+2.	Experimental setup – Identify population to collect initial user feedback on Beakspeak - Mathew
 Acceptance criteria :
 a.	Plan to be shared with Team Lead and other PMs. Team to verify the plan and validate it
+3.	Wrap up comments - Gai
+a.	Acceptance criteria:
+i.	New comments show up on main screen and post detail screen without manual refresh
+b.	Should be done fairly early in sprint -> move onto adding votes
+4.	Combination of votes and comments on post - Gai
+a.	Acceptance criteria:
+i.	Votes show up on comments and appear like posts
+ii.	Same functionality as posts
+5.	Debugging batches - continue work from previous sprint - figure out unmounting issue - Yifan + Parker
+a.	Acceptance criteria:
+Batch post retrieval
+1.	Check for unnecessary re-renders
+Acceptance Criteria :
+b.	Upon refresh only currently loaded posts update
 
-3.	Combination of votes and comments on post
-Acceptance criteria :
-a.	All Individual functionalities of votes and comments to available in the updated post
+2.	Test for number of renders when retrieving a batch – number of renders in each batch should be equal
+Acceptance Criteria :
+b.	Consistently get x posts every time user gets to bottom of the page
 
-4.	Implement backline pipeline for reporting – start the backend for reporting
-Acceptance criteria :
-a.	All reports created in the front end to be stored successfully
-
-5.	Replacing authentication token with Thera’s authentication work
+3.	Number of post retrievals per user to be fixed – number to be based on ramifications on memory
+6.	Wrap up reports UI - Franklin + Alice
+a.	Change fields to reflect user needs ie. one text field that is titled ‘Why are you reporting this post?”
+b.	Should be done fairly early in sprint -> move onto backend
+7.	Implement backend pipeline for reporting – start the backend for reporting-Franklin + Alice
+a.	Acceptance criteria :
+i.	All reports created in the front end to be stored successfully
+8.	Implement keychain - Thera
+a.	Acceptance criteria:
+i.	Token can be retrieved anywhere in app
+ii.	Token is retrievable after app closes and reopens
+iii.	User doesn’t need to login each time they open the app
+9.	Backlog - Replacing authentication token with Thera’s authentication work
 Acceptance criteria :
 a.	All functionalities to work as before
 
@@ -169,34 +191,39 @@ a.	All functionalities to work as before
 Backlog:
 (List high-level priorities here)
 
-Sprint #5 (2/23)
+
+### Sprint #5 (2/23)
 Delivery Target:
-1.	Report backend – continue the backend for reporting
+1.	Report backend – continue the backend for reporting.
 Acceptance criteria :
-a.	All reports created in the front end to be stored successfully
+a.	All reports created in the front end to be stored successfully in modal
 
 2.	Miscellaneous activities for finalizing product
 Acceptance criteria :
 a.	Limit number of  comments on main screen
 b.	Sort comments according to votes
 c.	Verify android header is at the right position
+3.	Combination of votes and comments on post - continue 
+Acceptance criteria:
+a.	Votes show up on comments and appear like posts
+b.	Same functionality as posts
+4.	Change decorator syntax to non-decorator syntax 
+Acceptance Criteria:
+a.	Change the syntax
+5.	Adjust app header to status bar - Realign the status bar to appropriate position for the Android version of the App
+Acceptance Criteria :
+a.	The status bar of the app is properly aligned
 
-Backlog:
-(List high-level priorities here)
 
-Sprint #6 (3/2)
+### Sprint #6 (3/2)
 Delivery Target:
 1.	App testing
 a.	Simulate system under duress 
 Acceptance criteria :
 i.	App to function as expected with large number  (X) of users
-
 ii.	App to function as expected with large amount of content (X number of posts)
 iii.	 Responsiveness , battery and memory usage to be within acceptable levels
 
-
-Backlog:
-(List high-level priorities here)
 
 Sprint #7 (3/9)
 Delivery Target:
