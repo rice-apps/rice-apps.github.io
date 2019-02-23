@@ -7,7 +7,7 @@ Before each sprint: review the targets for the sprint with the product manager. 
 
 After each sprint: review the work that was completed in the sprint and see if anything requires adjusting.
 
-### Roadmap for  Beakspeak
+# Roadmap for  Beakspeak
 
 ## Tasks completed as of last year :
 1.	Basic authentication
@@ -60,7 +60,7 @@ Time Line
 
 ## Sprints
 
-# Sprint #1 (1/26)
+### Sprint #1 (1/26)
 Delivery Target:
 1.	Warm-up Tasks + Wrap Ups
 a.	Change comment votes from array to dict
@@ -75,7 +75,7 @@ g.	Cute error message modal that shows up when app loses connection to backend
 Backlog:
 (List high-level priorities here)
 
-Sprint #2 (2/2)
+### Sprint #2 (2/2)
 Delivery Target:
 1.	Epic : Performance
 Stories :
