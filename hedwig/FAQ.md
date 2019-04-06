@@ -1,4 +1,4 @@
-##FAQ Questions
+## FAQ Questions
 
 **What payment methods do you accept?**
 We accept all credit cards. Cash and check are not accepted.
