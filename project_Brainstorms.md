@@ -1,6 +1,6 @@
 ## Sourcing new project ideas:
 
-##User-submitted:## <br>
+## User-submitted: <br>
 **Katherine** <br>
 <ol>
 <li>Doctors for Change (needs to find a way to encourage undocumented immigrants to see doctors</li>
@@ -24,4 +24,4 @@
 </ol>
 <br>
 
-Potential Rice Organizations
+## Potential Rice Organizations
