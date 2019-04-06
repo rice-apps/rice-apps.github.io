@@ -25,8 +25,8 @@ You will receive your refund if you cancel your order while the order status is 
 <br>
 
 **Who can I contact if I have a problem?** <br>
-For any issues with your delivery, please reach out to East-West at 
-For any issues with the app itself, please submit any issues to the following Google Form: 
+For any issues with your delivery, please reach out to East-West at (EMAIL?) <br>
+For any issues with the app itself, please submit any issues to the following Google Form: (GOOGLE FORM URL)
 <br>
 
 **(Optional- needs answer) What is the average Delivery time?**
