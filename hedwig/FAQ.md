@@ -23,6 +23,7 @@ There is no minimum amount required.
 **What is your refund policy?** <br>
 You will receive your refund if you cancel your order while the order status is “Pending.” You will not receive a refund if the order status is “On the way.” We submit refund requests to your bank immediately, but depending on your bank, refunds take approximately 5-10 business days to process.
 <br>
+
 **Who can I contact if I have a problem?** <br>
 For any issues with your delivery, please reach out to East-West at 
 For any issues with the app itself, please submit any issues to the following Google Form: 
