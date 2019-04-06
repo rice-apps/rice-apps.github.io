@@ -7,11 +7,17 @@ _Katherine_ <br>
 <li>Behavioral medicine: video game app to encourage kids to take their medicines</li>
 </ol> 
 <br>
-_Mayank_
+**Mayank**
 <br>
-_Mathew_
+**Mathew**
+<ol>
+<li>Event planning cookie-cutter app
+</ol>
 <br>
-_Jason_
+**Jason**
+<ol>
+<li>Jones Tech Club Website
+</ol>
 <br>
 
 Potential Rice Organizations
