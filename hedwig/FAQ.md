@@ -15,6 +15,7 @@ Our app does not support coupon or promotional codes. If you received any flyers
 **Do I need to tip my delivery person?**
 
 <br>
+
 **Is there a minimum amount of boba that I need to order?** <br>
 There is no minimum amount required.
 <br>
