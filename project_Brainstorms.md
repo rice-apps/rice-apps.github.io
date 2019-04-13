@@ -5,6 +5,7 @@
 <ol>
 <li>Doctors for Change (needs to find a way to encourage undocumented immigrants to see doctors</li>
 <li>Behavioral medicine: video game app to encourage kids to take their medicines</li>
+<li>National School of Tropical Medicine: Advocacy website update</li>
 </ol> 
 <br>
 
