@@ -1,7 +1,7 @@
 # Carpool 
 ## Documentation
 ### Project Name: Carpool
-### Team Members: Diksha, Myra, Gerald, Josie, Angela, Ling, Emmett
+### Team Members: Diksha Gupta, Myra Ramdenbourg, Gerald Wang, Josie Garza, Angela Hwang, Ling Wu, Emmett Bertram
 
 **Onboarding reflection:**<br/>
 What did you take away? What was it like joining the team? What do you wish was done better? How could your workflow be improved?
