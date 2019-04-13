@@ -13,7 +13,7 @@ How will you intend on getting the product to the customer? What is the goal of 
 
 **Customer journey:**<br/>
 _Front-end:_ What is the user doing on their screen?
- - The user is selecting and creating the rides that they would like to join or create to travel to and from one of the area airports back to Rice.
+ - The user is selecting and creating the rides that they would like to join or create to travel to and from one of the area airports back to Rice. 
  
 _Back-end:_ As the user is using your app, what is going on in the back-end?
 
@@ -25,7 +25,7 @@ What kind of policies does your app have? Moderation, privacy, community guideli
  - I have incorporated Epics and stories to the roadmap with target deadlines.
  
 **Roadmap (original):** What was the original roadmap? Having the two roadmaps side-by-side should be useful for understanding the delays. After the project, you can discuss what happened to the time lag.
- - The original roadmap was a running To-Do list, similar to the Wunderlist app. I found it helpful to get an understanding what was done before I was onboarded.
+ - The original roadmap was a running To-Do list shared in googledoc, similar to the Wunderlist app. I found it helpful to get an understanding what was done before I was onboarded.
  
 
 ## Carpool Roadmap
