@@ -7,6 +7,7 @@
 - Projects 2018-2019
   - [Reservations](./reservations/README.md)
   - [Hedwig](./hedwig/README.md)
+  - [Hedwig FAQ](./hedwig/FAQ.md)
   - [Carpool](./carpool/README.md)
   - [Beakspeak](./BeakSpeak/Readme.md)
   - [2019-20 Project Brainstorm](./project_Brainstorms.md)
