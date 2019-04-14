@@ -1,5 +1,9 @@
 ## FAQ Questions
 
+**Brought to you by:** <br>
+Rice Apps Team Hedwig (Johnny Cai, Justin Fan, Amy Huyen, Will Mundy, Will Su, Jamie Tan, and Jeffrey Wang)
+<br>
+
 **What payment methods do you accept?** <br>
 We accept all credit cards. Cash and check are not accepted.
 <br>
@@ -13,7 +17,7 @@ Our app does not support coupon or promotional codes. If you received any flyers
 <br>
 
 **Do I need to tip my delivery person?**
-
+No.
 <br>
 
 **Is there a minimum amount of boba that I need to order?** <br>
@@ -25,8 +29,7 @@ You will receive your refund if you cancel your order while the order status is 
 <br>
 
 **Who can I contact if I have a problem?** <br>
-For any issues with your delivery, please reach out to East-West at (EMAIL?) <br>
+For any issues with your delivery, please reach out to East-West at info@eastwesttearice.com or 832-649-0626.   <br>
 For any issues with the app itself, please submit any issues to the following Google Form: <https://forms.gle/bbr3GtbuFg4PdGE19>
 <br>
 
-**(Optional- needs answer) What is the average Delivery time?**
